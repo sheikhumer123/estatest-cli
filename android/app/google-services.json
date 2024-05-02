@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "285876470073",
+    "project_id": "estatest-9bac8",
+    "storage_bucket": "estatest-9bac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285876470073:android:340a2a650cc18be7efe8e8",
+        "android_client_info": {
+          "package_name": "com.estatestcli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285876470073-ton29u4t6qknkkk98ap63mvt0hf620r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estatestcli",
+            "certificate_hash": "38b58376263b66f89a1a06766b3b5cfbf6874032"
+          }
+        },
+        {
+          "client_id": "285876470073-5l5a01vkeu8ru52h066ivsdom2c1s84j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwhPHQ15WqHq7SIo7HJBATLcHF6tLat8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285876470073-5l5a01vkeu8ru52h066ivsdom2c1s84j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285876470073-2r6q11kan8mqe5ou0d6m425ggh9lohoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.estatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

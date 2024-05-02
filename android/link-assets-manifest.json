@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Assistant/OFL.txt",
+      "sha1": "303cd59ca02bf8e35230a7278c4f14a6f07dbc3f"
+    },
+    {
+      "path": "assets/fonts/Assistant/README.txt",
+      "sha1": "f9f5cd63a6fb57ede61c05c10590300a3c1a0e87"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-Bold.ttf",
+      "sha1": "a62ba0f05e05e61799a0a77a13dace7a5d6895d7"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-ExtraBold.ttf",
+      "sha1": "e2163cbf24fb7ec524276db9402aedc9b81f2893"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-ExtraLight.ttf",
+      "sha1": "2cb5694dd184ec1ec77cacf1d28909df78c0b21a"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-Light.ttf",
+      "sha1": "023b0764b04410a982cc2a3ff07299e4d313b0f9"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-Medium.ttf",
+      "sha1": "97ee81c5ec3047e72392124e2668cb6dbfe86335"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-Regular.ttf",
+      "sha1": "fc9fd7bf012a108a760c6d549bdd285c70177678"
+    },
+    {
+      "path": "assets/fonts/Assistant/static/Assistant-SemiBold.ttf",
+      "sha1": "318b02078143b40f7ec5f9cf85c288105e194fbd"
+    },
+    {
+      "path": "assets/fonts/Assistant-Semi.ttf",
+      "sha1": "b8ffe436cc5f197f27873c32277864023b6ddf22"
+    },
+    {
+      "path": "assets/fonts/Assistant-light.ttf",
+      "sha1": "b8ffe436cc5f197f27873c32277864023b6ddf22"
+    },
+    {
+      "path": "assets/fonts/GveretLevinAlefAlefAlef-Regular.otf",
+      "sha1": "f58d3b750cb788876b40f464ee3dc67c7c2840c9"
+    },
+    {
+      "path": "assets/fonts/GveretLevinAlefAlefAlef-Regular.ttf",
+      "sha1": "5f6c6e1a14a6e9956ad29d34cf776e8740c1206c"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}

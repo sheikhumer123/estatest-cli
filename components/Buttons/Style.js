@@ -1,0 +1,96 @@
+import {StyleSheet} from 'react-native';
+import {wp, hp, RFS, isPAD, iosPAD} from '../../dimensions/dimensions';
+const styles = StyleSheet.create({
+  btnWrap: {
+    width: '100%',
+    borderWidth: 1,
+    flexDirection: 'row',
+    borderRadius: 10,
+    borderColor: '#DFDFDF',
+    height: iosPAD ? hp(7) : hp(7),
+    marginTop: hp(2),
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  appleWrap: {
+    width: '100%',
+    borderWidth: 1,
+    flexDirection: 'row',
+    borderRadius: 5,
+    borderColor: 'black',
+    height: isPAD ? hp(10) : hp(7),
+    marginTop: hp(2),
+    alignItems: 'center',
+    justifyContent: 'space-evenly',
+    backgroundColor: 'black',
+    alignSelf: 'center',
+  },
+  wrapImgSocial: {
+    width: iosPAD ? wp(6) : wp(6),
+    height: iosPAD ? wp(6) : hp(6),
+  },
+  appleWrapSocialImage: { 
+    width: isPAD ? wp(4) : wp(4),
+    height: isPAD ? wp(4) : hp(4),
+    marginHorizontal: 10,
+  },
+  innerImg: {
+    width: '100%',
+    height: '100%',
+  },
+  txtInnerTxt: {
+    right: wp(3),
+    fontSize: RFS(14),
+    fontWeight: '400',
+    color: 'black',
+    fontFamily: 'Assistant-Bold',
+  },
+  appleTxtInnerTxt: {
+    fontSize: RFS(15),
+    // fontWeight: '400',
+    color: 'white',
+    fontFamily: 'Assistant-SemiBold',
+  },
+  btnMediumWrap: {
+    width: '100%',
+    borderWidth: 1,
+    borderRadius: 100,
+    borderColor: '#DFDFDF',
+    height: iosPAD ? hp(7) : hp(6.5),
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  btnSmallWrap: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: 100,
+    paddingHorizontal: wp(5),
+    height: hp(8),
+    backgroundColor: '#3291EA',
+    alignSelf: 'center',
+    width: '75%',
+  },
+  HomePremiumButton: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: 100,
+    paddingHorizontal: wp(6),
+    height: hp(8),
+    backgroundColor: '#3291EA',
+    alignSelf: 'center',
+  },
+  buttonText: {
+    textAlign: 'center',
+    fontSize: RFS(18),
+    color: 'white',
+    fontWeight: 'bold',
+  },
+  buttonTextHomePremium: {
+    fontFamily: 'Assistant-Bold',
+    textAlign: 'center',
+    fontSize: RFS(20),
+    color: 'white',
+  },
+});
+
+export default styles;
